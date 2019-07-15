@@ -66,7 +66,6 @@ learing go
 
 
  - startMain.go 主入口
- - tests
-	--	gostart 初识
-	--	typetrans 类型转换
+ - tests/gostart.go 初识
+ - tests/typetrans.go 类型转换
 		
