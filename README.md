@@ -62,11 +62,11 @@ learing go
 
 
 
-
+## 文件说明
 
 
  - startMain.go 主入口
- -- tests
-	gostart 初识
-	typetrans 类型转换
+ - tests
+	--	gostart 初识
+	--	typetrans 类型转换
 		
