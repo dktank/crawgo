@@ -1,10 +1,10 @@
-#### crawgo
+# crawgo
 learing go
 
 
 
 
-#### language go
+## language go
 
  - package
  - import 
@@ -13,21 +13,21 @@ learing go
  - //  /* */
  - a := 5
 
-#### 标识符
+## 标识符
 
  - 常量
  - 变量
  - 类型
  - 函数
 
-#### 类型
+## 类型
 
  - bool
  - 数字
  - 字符串
  - 派生
 
-### 派生
+#### 类型 - 派生
  - 指针
  - 数组
  - 结构体
