@@ -6,12 +6,12 @@ learing go
 
 ## language go
 
- - package
- - import 
- - var
- - func
- - //  /* */
- - a := 5
+ - package  包
+ - import   导入
+ - var      变量
+ - func     函数
+ - //  /* */  注释
+ - a := 5     语句
 
 ## 标识符
 
@@ -37,6 +37,15 @@ learing go
  - 接口
  - map 
 
+##  RunTime
+ - 内存分配
+ - 垃圾回收
+ - 栈处理
+ - 切片
+ - channel
+ - goroutine
+ - map
+ - reflection
 
 
 
@@ -56,9 +65,8 @@ learing go
 
 
 
-
-
-
-
-
-
+ - startMain.go 主入口
+ -- tests
+	gostart 初识
+	typetrans 类型转换
+		
