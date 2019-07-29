@@ -2,22 +2,23 @@ package main
 
 import (
 	"fmt"
-	td "./tests"
+	tg "./theWayToGo"
 
 )
 
 
 func main(){
 	
-	da := 9
-	db := 8
+	//tg.LocalGloab()
 	
-	td.LocalGloab()
-	td.FebP2(da)
-	td.FebP3(db)
+	//tg.TestCase0401()
+	//tg.TestCase0402()
+	//tg.TestCase0403()
+	//tg.TestCase0404()
+	//tg.TestCase0405()
 	
-	td.Example()
+	tg.TestFix3()
 	
-	fmt.Println("all test done")
+	fmt.Println("\nall test done")
 }
 

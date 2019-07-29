@@ -1,11 +1,11 @@
-package testssd
+package twtg
 
 import (
 	"math"
 	"fmt"
 )
 
-func Example() {
+func TestCase0402() {
 	var ss int = 1269
 	var msg error
 	var sb uint8
@@ -34,3 +34,15 @@ func Uint8FromInt(n int) (uint8, error) {
    
 	return 0, fmt.Errorf("%d out of range", n)
 }
+
+
+
+/*
+
+同一个程序 只有一个main
+
+同一个文件夹下 只有一个package
+
+
+
+*/
